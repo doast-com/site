@@ -2075,16 +2075,16 @@ input, select, textarea {
 
 	#banner {
 		position: relative;
-		padding: 4.5em;
+		padding: 2.5em;
 	}
 
 		#banner h2 {
-			font-size: 3.5em;
+			font-size: 3em;
 			margin: 0.1em 0 0.35em 0;
 		}
 
 		#banner p {
-			font-size: 2.75em;
+			font-size: 2em;
 			line-height: 1.35em;
 			margin: 0;
 		}
@@ -2645,7 +2645,7 @@ input, select, textarea {
 
 			#banner {
 				text-align: center;
-				padding: 15px 15px 15px 15px;
+				padding: 10px 15px 10px 15px;
 				margin: 0 auto !important;
 			}
 
@@ -2655,7 +2655,7 @@ input, select, textarea {
 				}
 
 				#banner p {
-					font-size: 1.5em;
+					font-size: 1.2em;
 					line-height: 1.5em;
 					margin: 0;
 				}

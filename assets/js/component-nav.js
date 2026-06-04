@@ -17,7 +17,7 @@ class Header extends HTMLElement {
 							<li><a target="_blank" href="docs/doast-clinical-expertise.pdf">Clinical Expertise</a></li>
 							<li><a target="_blank" href="docs/doast-challenge-the-dogma.pdf">Challenge the Dogma</a></li>							
 							<li><a href="videos.html">Videos</a></li>
-							<li><a target="_blank" href="docs/help-us.pdf">Help Us</a></li>
+							<li><a target="_blank" href="docs/doast-help-us.pdf">Help Us</a></li>
 						</ul>
 					</nav>
 
