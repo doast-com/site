@@ -13,7 +13,7 @@ class Header extends HTMLElement {
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a target="_blank" href="docs/doast-from-2003-till-now.pdf">From 2003 till now</a></li>
+							<li><a target="_blank" href="docs/doast-from-2004-till-now.pdf">From 2004 till now</a></li>
 							<li><a target="_blank" href="docs/doast-future.pdf">Future</a></li>
 
 							<li>
@@ -23,7 +23,7 @@ class Header extends HTMLElement {
 									<li><a href="testimonials-family-2.html">Family 2</a></li>
 									<li><a href="testimonials-family-3.html">Family 3</a></li>
 									<li><a href="testimonials-family-4.html">Family 4</a></li>
-									<li><a href="testimonials-family-5.html">Family 5</a></li>
+									<li><a href="testimonials-family-5.html#">Family 5</a></li>
 								</ul>
 							</li>
 							<li><a href="references.html">References</a></li>
@@ -50,7 +50,10 @@ class Footer extends HTMLElement {
 							<!-- Contact -->
 								<section class="widget contact last">
 									<h3>Contact Us</h3>
-									
+									<ul>
+										<li><a target="_blank" href="https://www.facebook.com/autismbioindia/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a target="_blank" href="https://www.youtube.com/channel/UCGu79W2uv8PuNijg1kapW0A" class="icon brands fa-youtube"><span class="label">You Tube</span></a></li>
+									</ul>
 									<p>
 									<b>DOAST Integrated Therapy Centre for Autism</b><br />
 									Z Block 249, 1st Street<br />
@@ -61,11 +64,6 @@ class Footer extends HTMLElement {
 									+91 8056060606</br>
 									doast1910@gmail.com
 									</p>
-									
-									<ul>
-										<li><a target="_blank" href="https://www.facebook.com/autismbioindia/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a target="_blank" href="https://www.youtube.com/channel/UCGu79W2uv8PuNijg1kapW0A" class="icon brands fa-youtube"><span class="label">You Tube</span></a></li>
-									</ul>
 								</section>
 
 						</div>
